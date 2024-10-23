@@ -1,4 +1,4 @@
-# Human Evaluation Portal Website
+# Human Evaluation WebPortal
 
 - Check out [here](https://ayeshathoi.github.io/codeReview/)
 - Created with the help of [gh-pages](https://github.com/gitname/react-gh-pages)
